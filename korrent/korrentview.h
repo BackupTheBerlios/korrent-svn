@@ -96,7 +96,6 @@ private slots:
     void slotSetTitle(const QString& title);
 
 private:
-    KParts::ReadOnlyPart *m_html;
 };
 
 #endif // KORRENTVIEW_H
