@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Korrent
+Exec=korrent %i %m -caption "%c"
+Icon=korrent
+Type=Application
+DocPath=korrent/korrent.html
+GenericName=A KDE Application
+Terminal=0

@@ -1,0 +1,5 @@
+
+SUBDIRS = $(AUTODIRS)
+KDE_DOCS = korrent
+KDE_LANG = en
+
